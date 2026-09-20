@@ -1,4 +1,4 @@
-# Sachin Das — Personal Engineering Portfolio
+# Sachin Das — Personal Website
 
 A premium dark-mode personal website for Sachin Das, built with Next.js 16, React, TypeScript, and Tailwind CSS v4.
 

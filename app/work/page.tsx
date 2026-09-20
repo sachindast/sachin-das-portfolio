@@ -49,7 +49,7 @@ export default function WorkPage() {
           </div>
         </section>
 
-        <div className="py-20"><Link href="/" className="inline-flex items-center gap-2 text-sm text-slate-400 hover:text-white"><ArrowLeft size={14}/> Back to portfolio</Link></div>
+        <div className="py-20"><Link href="/" className="inline-flex items-center gap-2 text-sm text-slate-400 hover:text-white"><ArrowLeft size={14}/> Back to Sachin Das</Link></div>
       </div>
     </main>
   );
