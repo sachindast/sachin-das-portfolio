@@ -58,7 +58,7 @@ const timeline = [
     text: "A progression from enterprise engineering into automation and modern DevOps practices.",
   },
   {
-    period: "2016 → 2017",
+    period: "2015 → 2017",
     company: "Novell",
     role: "VMWare Lab Support Engineer",
     text: "The start of the journey that eventually led into DevOps and platform engineering.",
