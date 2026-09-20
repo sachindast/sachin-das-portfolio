@@ -36,8 +36,8 @@ const timeline = [
   {
     period: "2026 →",
     company: "Clinisys",
-    role: "DevOps Engineer",
-    text: "Cloud, CI/CD and platform engineering work across a modern product environment.",
+    role: "Senior DevOps Engineer",
+    text: "Leveraging my experience to modernize a legacy product and evolve the way it is built, delivered, and maintained.",
   },
   {
     period: "2021 → 2026",
