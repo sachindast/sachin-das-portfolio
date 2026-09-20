@@ -36,26 +36,32 @@ const timeline = [
   {
     period: "2026 →",
     company: "Clinisys",
-    role: "Senior DevOps Engineer",
+    role: "Senior Software Engineer",
     text: "Leveraging my experience to modernize a legacy product and evolve the way it is built, delivered, and maintained.",
   },
-  {
-    period: "2021 → 2026",
+ {
+    period: "2024 → 2026",
     company: "OpenText",
-    role: "Senior Software / DevOps Engineer",
+    role: "Senior Software Engineer",
+    text: "Automation, release engineering, CI/CD, Kubernetes workflows and engineering enablement.",
+  },
+  {
+    period: "2021 → 2024",
+    company: "OpenText",
+    role: "Software Engineer",
     text: "Automation, release engineering, CI/CD, Kubernetes workflows and engineering enablement.",
   },
   {
     period: "2017 → 2021",
     company: "Micro Focus",
-    role: "Software Engineer",
+    role: "Associate Software Engineer",
     text: "A progression from enterprise engineering into automation and modern DevOps practices.",
   },
   {
     period: "2016 → 2017",
     company: "Novell",
-    role: "Contract Engineer",
-    text: "The start of the engineering journey that eventually led into DevOps and platform engineering.",
+    role: "VMWare Lab Support Engineer",
+    text: "The start of the journey that eventually led into DevOps and platform engineering.",
   },
 ];
 
